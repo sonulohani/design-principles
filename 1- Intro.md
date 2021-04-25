@@ -5,3 +5,5 @@
 - Separating what changes from what stays the same.
 - Program to an interface, not an implementation. "Program to an interface" really means program to a supertype.
 - HAS-A can be better than IS-A. Favor composition over inheritance.
+- Strive for lossely coupled designs between objects that interact.
+- Loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between objects.
